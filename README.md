@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Neural Networks, Big Data Mining, Data Structures and Computer Algorithms.**
 
-- 💬 Ask me about **Neural Networks, Big Data Mining, Data Structures and Computer Algorithms**
+- 💬 Ask me about **Neural Networks, Big Data Mining, Data Structures and Computer Algorithms.**
 
 - 📫 How to reach me **pradeepraj18062002@gmail.com**
 
