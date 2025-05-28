@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/4f/05/95/4f0595b0e1421428a053ff7aea868424.gif)](https://pradeep-18062002.io)
+
 <h1 align="center">Hi 👋, I'm Pradeep Raj Prabhu Raj</h1>
 <h3 align="center">Passionate Computer Science enthusiast pursuing my Master’s at the University of Illinois Chicago. Focused on AI, cloud security, software development, and neural networks to solve real-world challenges.</h3>
 
