@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Pradeep Raj Prabhu Raj</h1>
+<h1 align="center">Hi 👋, I'm Pradeep</h1>
 <h3 align="center">Passionate Computer Science enthusiast pursuing my Master’s at the University of Illinois Chicago. Focused on AI, cloud security, software development, and neural networks to solve real-world challenges.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
