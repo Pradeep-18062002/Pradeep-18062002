@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<table><tr>
+<table border="0"><tr>
 <td><a href="https://linkedin.com/in/pradeepraj-p" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
 <td><a href="https://instagram.com/pradeep__7" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></td>
 <td><a href="https://www.leetcode.com/pradeep__7" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a></td>
@@ -33,7 +33,7 @@
 
 **Programming Languages**
 
-<table><tr>
+<table border="0"><tr>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></td>
@@ -44,7 +44,7 @@
 
 **Backend & Web Development**
 
-<table><tr>
+<table border="0"><tr>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></td>
@@ -57,7 +57,7 @@
 
 **Databases & Vector Stores**
 
-<table><tr>
+<table border="0"><tr>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></td>
@@ -66,7 +66,7 @@
 
 **Cloud & DevOps**
 
-<table><tr>
+<table border="0"><tr>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></td>
 <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></td>
@@ -75,31 +75,11 @@
 
 **AI & ML**
 
-<table><tr>
+<table border="0"><tr>
 <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></td>
 <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></td>
 </tr></table>
-
----
-
-<h3 align="left">🚀 Featured Projects:</h3>
-
-**DocSage – Knowledge Graph-Powered Full Stack AI RAG Application** *(Jan 2026 – Feb 2026)*
-- Built a knowledge graph-powered RAG system with **Neo4j** and **Gemini API** achieving 40% more accurate responses than vector-only RAG
-- Deployed on **GCP Cloud Run** via Artifact Registry, Cloud Build, and Secret Manager using multi-stage Docker builds
-
-**Autonomous AI Code Generator with Multi-Agent Architecture** *(Oct 2025 – Nov 2025)*
-- Reduced web app development time by **70%** using a **LangGraph** multi-agent workflow (Planner, Architect, Coder)
-- Converts natural language prompts into production-ready applications using Pydantic for structured code generation
-
-**Fine-tuning LLaMA 3.2 for Cricket Match Strategy Prediction** *(Jan 2025 – Feb 2025)*
-- Fine-tuned **LLaMA 3.2** with **QLoRA/PEFT** on IPL data, achieving **90% improvement** in venue-specific predictions
-- Built efficient 4-bit quantized training pipeline with Hugging Face Transformers, bitsandbytes, and LoRA adapters
-
-**Bias-Free Music Recommendation System** *(Aug 2024 – Nov 2024)*
-- Reduced popularity bias by **50%** using **CNN, Word2Vec, and Node2Vec** hybrid embeddings
-- Reduced cold-start impact by **40%** through content-based and metadata-based embedding integration
 
 ---
 
