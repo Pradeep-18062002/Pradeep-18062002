@@ -89,5 +89,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pradeep-18062002&show_icons=true&locale=en" alt="pradeep-18062002" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-18062002&timezone=America/Chicago&" alt="pradeep-18062002" />
+  <img src="https://streak-stats.demolab.com/?user=pradeep-18062002&timezone=America/Chicago&" alt="pradeep-18062002" />
 </p>
