@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeep-18062002&label=Profile%20views&color=0e75b6&style=flat" alt="pradeep-18062002" /> </p>
 
-- 🔭 I'm currently working as an **AI/ML Developer Intern at Sportthon Inc.** — building LangGraph agents, RAG pipelines, and fine-tuned LLMs
+- 🔭 I'm currently working as an **AI/ML Developer Intern at Sportthon Inc.**, building LangGraph agents, RAG pipelines, and fine-tuned LLMs
 
 - 🎓 Pursuing **MS Computer Science at University of Illinois Chicago** (GPA: 3.71/4.0, Expected May 2026)
 
@@ -89,5 +89,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pradeep-18062002&show_icons=true&locale=en" alt="pradeep-18062002" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-18062002&" alt="pradeep-18062002" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-18062002&timezone=America/Chicago&" alt="pradeep-18062002" />
 </p>
